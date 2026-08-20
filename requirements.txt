@@ -1,0 +1,6 @@
+faster-whisper
+PySide6
+huggingface_hub
+
+# Optional, Windows only — enables the Windows taskbar progress indicator
+comtypes

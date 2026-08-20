@@ -1,0 +1,12 @@
+config.json
+*.lnk
+/python/
+/Faster-Whisper-Models/
+*.zip
+get-pip.py
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
